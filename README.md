@@ -1,6 +1,6 @@
 # OSCP
 
-Things I used for OSCP.
+Materials for OSCP.
 
 ## Resources
 

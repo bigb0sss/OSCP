@@ -1,8 +1,8 @@
 # OSCP
 
-Materials for OSCP.
+Materials for OSCP
 
 ## Resources
 
-### Bof
+
 
